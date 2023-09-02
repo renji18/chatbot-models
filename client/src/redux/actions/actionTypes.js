@@ -1,0 +1,2 @@
+export const SEND_MESAGE = "SEND_MESAGE"
+export const RECIEVE_MESAGE = "RECIEVE_MESAGE"
