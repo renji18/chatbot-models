@@ -10,8 +10,8 @@ Create a virtual environment (optional)
 Kill the current terminal and the new environment will be activated from the next terminal session.
 
 
-Install `Flask` and `Flask-Cors`
+Install the server dependencies by running `pip install -r requirements.txt`
 
-After cloning the project install the client dependencies by running `npm i` and then you can start the client by `cd client/` and then `npm start`
+After cloning the project go to the client by `cd client/` then install the client dependencies by running `npm i` and then you can start  and then `npm start`
 
 To start the server `cd server/` and then `python app.py`
